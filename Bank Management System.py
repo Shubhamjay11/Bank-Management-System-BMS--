@@ -1,4 +1,4 @@
-#PYTHON PROJECT CE-2
+
 
 import mysql.connector 
 connect=mysql.connector.connect(host="localhost",user="root",password="112001",database=" bank5")
